@@ -13,3 +13,5 @@ I am currently a Research Scientist studying how wildfires reshape ecosystems, w
 ## Map of University of Perdeniya, Sri Lanka 
 <embed type="text/html" src="img/uof.html" width="600" height="600">
   
+## Plot of Boulder Temperature
+<embed type="text/html" src="img/boulder.html" width="600" height="600">
